@@ -1,4 +1,4 @@
 # hello-world
-testing
 
-test commits & branch
+10/25/2018
+Compilation of python basic codes and samples
